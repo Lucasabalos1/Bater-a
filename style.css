@@ -1,3 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body{
     background: url(https://res.cloudinary.com/cremz/image/upload/v1525948967/drumkit.jpg) no-repeat center center fixed;
     background-size: cover;
